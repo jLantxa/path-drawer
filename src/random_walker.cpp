@@ -1,6 +1,6 @@
-#include "draw.hpp"
-
 #include <random>
+
+#include "draw.hpp"
 
 extern "C" {
 
